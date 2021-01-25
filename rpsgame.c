@@ -1,3 +1,5 @@
+// This program is a rock paper scissors game where you play a game against the computer
+// The choice of the computer is randomly picked based on a time seed I planted in the file
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
